@@ -56,7 +56,7 @@ Please check the online demo [here](https://www.aviacommerce.org/demo/demo.html)
 8. Chat with seller feature, messaging
 9. Payment methods(COD, Stripe, Payubiz, RazorPay and 29 others)
 
-### Admin has following features for sellers:-
+### Features provided by Admin:-
 
 1. Add/update products/inventory.
 2. Manage orders
@@ -68,7 +68,7 @@ Please check the online demo [here](https://www.aviacommerce.org/demo/demo.html)
 8. Taxation
 9. Send emails and notifications.
 
-### Quick Links
+### Quick Links 
 
 | [Gitter](https://gitter.im/avia-commerce/Lobby) | [Contributing](https://www.aviacommerce.org/docs/how-to-contribute.html) | [API Specs](https://www.aviacommerce.org/docs/apis-getting-started.html) |
 | ----------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
